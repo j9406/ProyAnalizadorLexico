@@ -46,3 +46,8 @@ Ejemplo: [ ], [hola, 23, "Alfa"], [a,b,c,(x), d]
 
 Predicado: Tiene la estructura átomo (Argumento), donde Argumento es 1 o más Argumentos separados por comas
 Ejemplo: --> (x, Luis), Invierte ([1, 2,3], Lisa) Concatena ("Hola", "?")
+
+Integrantes:
+JAVIER CRUZ BELTRAN 278744
+OSWALDO MANUEL RIOS FLORES 278673
+ISAAC RUIZ SUAREZ 278720
