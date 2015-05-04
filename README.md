@@ -48,6 +48,6 @@ Predicado: Tiene la estructura átomo (Argumento), donde Argumento es 1 o más A
 Ejemplo: --> (x, Luis), Invierte ([1, 2,3], Lisa) Concatena ("Hola", "?")
 
 Integrantes:
-JAVIER CRUZ BELTRAN 278744
-OSWALDO MANUEL RIOS FLORES 278673
-ISAAC RUIZ SUAREZ 278720
+JAVIER CRUZ BELTRAN
+OSWALDO MANUEL RIOS FLORES
+ISAAC RUIZ SUAREZ 
